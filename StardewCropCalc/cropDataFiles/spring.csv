@@ -1,12 +1,12 @@
-Crop, Growth, Regrowth, Cost, Sell
-Blue Jazz, 7, 0, 30, 50
-Cauliflower, 12, 0, 80, 175
-Coffee Bean, 10, 2, 2500, 15
-Garlic, 4, 0, 40, 60
-Green Bean, 10, 3, 60, 40
-Kale, 6, 0, 70, 110
-Parsnip, 4, 0, 20, 35
-Potato, 6, 0, 50, 80
-Rhubarb, 13, 0, 100, 220
-Strawberry, 8, 4, 100, 120
-Tulip, 6, 0, 20, 30
+Crop, Growth, Regrowth, Cost, Sell,Trellis
+Blue Jazz,7,0,30,50,FALSE
+Cauliflower,12,0,80,175,FALSE
+Coffee Bean,10,2,2500,15,FALSE
+Garlic,4,0,40,60,FALSE
+Green Bean,10,3,60,40,TRUE
+Kale,6,0,70,110,FALSE
+Parsnip,4,0,20,35,FALSE
+Potato,6,0,50,80,FALSE
+Rhubarb,13,0,100,220,FALSE
+Strawberry,8,4,100,120,FALSE
+Tulip,6,0,20,30,FALSE
