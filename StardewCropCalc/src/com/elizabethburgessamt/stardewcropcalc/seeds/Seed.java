@@ -16,7 +16,7 @@ public class Seed {
 		this.cost = cost;
 		this.sell = sell;
 		this.trellis = false;
-		if ("TRUE".equals(trellis)) {
+		if (trellis) {
 			this.trellis = true;
 		}
 	}
