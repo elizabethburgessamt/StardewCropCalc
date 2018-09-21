@@ -15,10 +15,7 @@ public class Seed {
 		this.regrowth = regrowth;
 		this.cost = cost;
 		this.sell = sell;
-		this.trellis = false;
-		if (trellis) {
-			this.trellis = true;
-		}
+		this.trellis = trellis;
 	}
 	
 	public String getCrop() {
