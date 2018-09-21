@@ -1,4 +1,4 @@
-package month;
+package com.elizabethburgessamt.stardewcropcalc.month;
 
 public class BudgetItem {
 	//TODO: Set up Data Object.
