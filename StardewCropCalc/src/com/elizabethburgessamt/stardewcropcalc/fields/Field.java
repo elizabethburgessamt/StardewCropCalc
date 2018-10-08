@@ -1,8 +1,21 @@
 package com.elizabethburgessamt.stardewcropcalc.fields;
 
-public interface Field {
+public abstract class Field {
 	
-	//static int cropCapacity;
-	//static int trellisCapacity;
+	int cropCapacity;
+	int trellisCapacity;
+	
+	public int getCropCapacity() {
+		return cropCapacity;
+	}
+	public void setCropCapacity(int cropCapacity) {
+		this.cropCapacity = cropCapacity;
+	}
+	public int getTrellisCapacity() {
+		return trellisCapacity;
+	}
+	public void setTrellisCapacity(int trellisCapacity) {
+		this.trellisCapacity = trellisCapacity;
+	}
 
 }

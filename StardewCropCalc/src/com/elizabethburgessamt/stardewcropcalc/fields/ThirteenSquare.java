@@ -1,5 +1,5 @@
 package com.elizabethburgessamt.stardewcropcalc.fields;
 
-public class ThirteenSquare implements Field {
+public class ThirteenSquare extends Field {
 
 }
